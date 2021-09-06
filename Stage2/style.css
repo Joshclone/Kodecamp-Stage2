@@ -1,0 +1,207 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+.section{
+    margin: 0px;
+    padding: 0%;
+    background-color: black;
+    
+}
+
+.banner img{
+    width: 60rem;
+    height: auto;
+margin-left: 10rem;
+}
+
+.he{
+    margin-top: 0px;
+    background-color: rgb(248, 143, 161) !important;
+    color: white;
+    width: 60rem;
+    height: auto;
+margin-left: 10rem;
+}    
+
+.flex {
+    width: 60rem;
+    height: auto;
+margin-left: 10rem;
+
+}
+
+.flex img{
+    width: 19.7rem;
+    height: auto;
+    background-color: rgb(248, 143, 161) !important;
+}
+
+
+.coming{
+    width: 60rem;
+    height: auto;
+    margin-left: 10rem;
+background-color: rgb(248, 143, 161) !important;
+    justify-content: center;
+}
+
+.coming h1{
+    margin-left: 15rem;
+    font-size: 4rem;
+
+}
+.coming p{
+
+    margin-left: 30px;
+    font-size: 2rem;
+
+    }
+
+    .name {
+        display: flex;
+       
+
+    }
+    input{
+        margin-left: 60px;
+        width: 17rem;
+        height: 30px;
+        border-radius: 10px;
+    }
+    button{
+        margin-left: 10px;
+        background-color: black;
+        border-radius: 10px;
+        height: 34px;
+    }
+    .article-image{
+        display: flex;
+       
+        width: 58.1rem;
+        height: auto;
+        margin-left: 10rem;
+        background-color: white;
+        color: black; 
+        padding: 15px;  
+    }
+    
+    .article-image img{
+        width:12rem ;
+        margin-left: 5rem;
+
+    }
+   
+
+    .article-image p{
+        padding-right: 4rem;
+        margin-top: 10px;
+        margin-left: 10px;
+        
+    }
+
+
+    .spring-collection{
+        width: 60rem;
+        height: auto;
+        margin-left: 10rem;
+        background-color: rgb(248, 143, 161) !important;
+ 
+
+    }
+    .spring-collection img{
+        
+        width:12rem ;
+        padding: 10px;
+       
+    }
+    .spring-collection h1{
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+        margin-left: 20px;
+    }
+    .second{
+        background-color: black !important;
+    }
+
+    .product{
+        width: 60rem;
+        height: auto;
+        margin-left: 10rem;
+        background-color: white;
+        margin-top: 10px;
+    }
+
+
+
+    .product img{
+        width: 10rem;
+        padding: 15px;
+        margin-left: 4rem;
+        
+
+
+    }
+    .product{
+        display: flex;
+        flex-direction: row;
+        color: black;
+
+    }
+    .product h1, span, p{
+        color: black;
+        margin-top: 30px;
+    } 
+
+    .product button{
+        width: 10rem;
+    }
+
+    .subscribe{
+        width: 60rem;
+        height: auto;
+        margin-left: 10rem;
+              background-color: whitesmoke;
+        
+
+
+    }
+
+
+
+.subscribe h1{
+    color: black;
+    margin-top: 3rem;
+}
+
+
+    .subscribe img{
+        width:30rem;
+        height: 19rem;
+
+    }
+    .subscribe h1{
+        margin-left: 40rem;
+        padding-top: 10rem;
+      
+    }
+   
+    .subscribe input{
+       
+        width: 10rem;
+        margin-top: 5rem;
+
+
+    }
+
+    #but{
+        width: 7rem ;
+    margin-left: 44rem;
+    margin-top: 2rem;
+    background-color: black;
+    border-radius: 10px;
+    height: 34px;}
